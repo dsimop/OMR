@@ -35,4 +35,4 @@ Dimitrios Simopoulos
 ##### Supervisor
 Prof. Ela Claridge
 
-Copyright: Dimitrios Simopoulos, University of Birmingham
+##### Copyright: Dimitrios Simopoulos, University of Birmingham
