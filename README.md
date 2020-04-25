@@ -1,6 +1,6 @@
 # Optical Music Recognition and Audio Samples Creation
 
-This system is able to recognise single-stave music scores and create audio files from them.
+This system is able to recognise single-stave digital music scores and create audio files from them.
 
 ## Getting Started
 
